@@ -1,7 +1,7 @@
 # HalfAndHalf (2-Player Space Ship Game)
 
 <p align="center"> 
-<a href="https://github.com/FlyingFactory/HalfAndHalf/blob/Images/Poster.jpg"><img src="https://github.com/FlyingFactory/HalfAndHalf/blob/Images/Poster.jpg"></a>
+<a href="https://github.com/FlyingFactory/HalfAndHalf/blob/master/Images/Poster.jpg"><img src="https://github.com/FlyingFactory/HalfAndHalf/blob/master/Images/Poster.jpg"></a>
 </p>
 
 ## Context
@@ -9,5 +9,5 @@ A 2-Player Couch Co-op Space Ship Game made by Game Design Club (for SUTD Open H
 
 
 <p align="center"> 
-<a href="https://github.com/FlyingFactory/HalfAndHalf/blob/Images/OpenHouse.jpg"><img src="https://github.com/FlyingFactory/HalfAndHalf/blob/Images/OpenHouse.jpg"></a>
+<a href="https://github.com/FlyingFactory/HalfAndHalf/blob/master/Images/OpenHouse.jpg"><img src="https://github.com/FlyingFactory/HalfAndHalf/blob/master/Images/OpenHouse.jpg"></a>
 </p>
